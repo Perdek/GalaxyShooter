@@ -3,7 +3,7 @@ using Project.Infrastructure.Services;
 using VContainer;
 using VContainer.Unity;
 
-namespace Project.Infrastructure.Installers
+namespace Project.Infrastructure.Installers.Game
 {
     public class GameLifetimeScope : LifetimeScope
     {
